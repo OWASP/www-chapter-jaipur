@@ -33,7 +33,7 @@ Would you like to speak on the upcoming OWASP Jaipur Webinar? [Contact Us](mailt
 
 <b>To know more about our upcoming events, follow us on our social handles.</b> 
 
-## Sponsorship for Local Chapter
+## Sponsorship Opportunities at the Local Chapter
 For more information on how to support the OWASP Jaipur chapter in helping organize free and open security meets at your company/institution, contact one of our chapter leaders:<br>
 [Prerit Pathak](mailto:prerit.pathak@owasp.org)<br>
 [Priyadarshan Vijay](mailto:priyadarshan.vijay@owasp.org)
