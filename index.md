@@ -7,7 +7,7 @@ region: Asia
 
 ---
 <!-- ![OWASP Jaipur Logo](/assets/images/logo.png)<br> -->
-<b>Welcome to the OWASP Jaipur chapter homepage. We conduct regular meetups to discuss, learn and implement our skills in the field of web & app security. OWASP Jaipur's meetings are FREE & OPEN to all who're interested in the information & cyber security domain! </b>
+<b>Welcome to the OWASP Jaipur chapter homepage. We conduct regular meetups to discuss, learn and implement our skills in the field of web & app security. OWASP Jaipur's meetings are FREE & OPEN to everyone who's interested in the information & cyber security domain! </b>
 
 
 ## Become a Speaker<br>
