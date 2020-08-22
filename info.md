@@ -1,4 +1,4 @@
-### Social Handlest
+### Social Handles
 
 * [MeetUp](https://www.meetup.com/OWASP-Jaipur-Meetup-Group/)
 
