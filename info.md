@@ -1,6 +1,6 @@
 ### Social Handles
 
-* [Telegram](https://t.me/joinchat/NN9L-0akDRxirLPslpA49A)
+* [WhatsApp](https://chat.whatsapp.com/Ivkv5VPeb9KGSmgcqS73iV)
 
 * [MeetUp](https://www.meetup.com/OWASP-Jaipur-Meetup-Group/)
 
