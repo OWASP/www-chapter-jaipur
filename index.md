@@ -34,9 +34,12 @@ Would you like to speak on the upcoming OWASP Jaipur Webinar? [Contact Us](mailt
 To know more about our upcoming events, follow us on our social handles.
 
 **OWASP Jaipur's Webinar: Bug Bounty & Social Engineering**
-#### **When**: Oct 2, 2020 -> 11 AM (IST)
-#### **Description**: The talks by **Mr. Rohit Gautam** & **Ms. Shifa Cyclewala** will be full of free & exclusive tricks about cybersecurity & bug bounties. Kindly set a reminder for the event to make sure that you don't miss it.
-#### **Location**: Please click the link below to join the webinar:
+
+**When**: Oct 2, 2020 -> 11 AM (IST)
+
+**Description**: The talks by **Mr. Rohit Gautam** & **Ms. Shifa Cyclewala** will be full of free & exclusive tricks about cybersecurity & bug bounties. Kindly set a reminder for the event to make sure that you don't miss it.
+
+**Location**: Please click the link below to join the webinar:
 [https://zoom.us/j/93418733128](https://zoom.us/j/93418733128)
 
 Or iPhone one-tap : 
