@@ -39,24 +39,6 @@ To know more about our upcoming events, follow us on our social handles.
 
 **Description**: The talks by **Mr. Rohit Gautam** & **Ms. Shifa Cyclewala** will be full of free & exclusive tricks about cybersecurity & bug bounties. Kindly set a reminder for the event to make sure that you don't miss it.
 
-**Location**: Please click the link below to join the webinar:
-[https://zoom.us/j/93418733128](https://zoom.us/j/93418733128)
-
-Or iPhone one-tap : 
-
-US: +13126266799,,93418733128#  or +13462487799,,93418733128# 
-
-Webinar ID: 934 1873 3128
-
-International numbers available: https://zoom.us/u/aeowcocpFW
-
-Code of conduct: https://owasp.org/www-policy/operational/code-of-conduct
-
-We condemn all inappropriate behaviors & acts, so kindly refrain from doing so. 
-
-It's been amazing to see how active the community has been till now, let's strive to learn together & grow together.
-
-
 
 ## Sponsorship Opportunities 
 For more information on how to support the OWASP Jaipur chapter in organising free and open security meets at your company/institution, contact one of our chapter leaders:<br>
