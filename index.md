@@ -2,8 +2,14 @@
 
 layout: col-sidebar
 title: OWASP Jaipur
-tags: example-tag
+tags: jpr
+level: 0
+
 region: Asia
+
+meetup-group: OWASP-Jaipur
+country: India
+postal-code: 302015
 
 ---
 <!-- ![OWASP Jaipur Logo](/assets/images/logo.png)<br> -->
