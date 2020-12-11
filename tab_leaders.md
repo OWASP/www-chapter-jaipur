@@ -2,7 +2,7 @@
 title: leaders
 tab: true
 order: 1
-tags: jaipur
+tags: jpr
 ---
 
 
@@ -21,7 +21,7 @@ Personal Website: <https://preritpathak.me>
 
 LinkedIn: [@preritpathak](https://www.linkedin.com/in/preritpathak)
 
-### **Priyadarshan Vijay
+### **Priyadarshan Vijay**
 
 **Communities Moderator:-** @OWASP WIA, Null, OWASPBangalore Chapter,
 InfoSecgirls
