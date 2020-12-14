@@ -22,8 +22,3 @@ Personal Website: <https://preritpathak.me>
 LinkedIn: [@preritpathak](https://www.linkedin.com/in/preritpathak)
 
 ### **Priyadarshan Vijay**
-
-**Communities Moderator:-** @OWASP WIA, Null, OWASPBangalore Chapter,
-InfoSecgirls
-
-Twitter: [@InfoSecVandana](https://www.twitter.com/InfosecVandana)
