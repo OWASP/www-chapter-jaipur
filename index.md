@@ -33,9 +33,11 @@ Would you like to speak on the upcoming OWASP Jaipur Webinar? [Contact Us](mailt
     - Abstract of the presentation
     - Presentation time required
     
-[Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+[Speaker Agreement](https://owasp.org/www-policy/)
 
-## Upcoming Events<br>
+## Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}
 
 To know more about our upcoming events, follow us on our social handles.
 
@@ -46,11 +48,11 @@ To know more about our upcoming events, follow us on our social handles.
 **Description**: The talks by **Mr. Rohit Gautam** & **Ms. Shifa Cyclewala** will be full of free & exclusive tricks about cybersecurity & bug bounties. Kindly set a reminder for the event to make sure that you don't miss it.
 
 
-## Sponsorship Opportunities 
+## Supporter Opportunities 
 For more information on how to support the OWASP Jaipur chapter in organising free and open security meets at your company/institution, contact one of our chapter leaders:<br>
 [Prerit Pathak](mailto:prerit.pathak@owasp.org)<br>
 [Priyadarshan Vijay](mailto:priyadarshan.vijay@owasp.org)
 
 <h2>Code of Conduct</h2>
-We care deeply about inclusivity and diversity in order to make OWASP Jaipur a convivial and welcoming community for everyone. If you have any feedback or would like to speak to us, please contact one of our chapter leaders. Your feedback is of utmost importance to us & is highly appreciated. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies).
+We care deeply about inclusivity and diversity in order to make OWASP Jaipur a convivial and welcoming community for everyone. If you have any feedback or would like to speak t(o us, please contact one of our chapter leaders. Your feedback is of utmost importance to us & is highly appreciated. You can find out more about our policies [here](https://owasp.org/www-policy/).
 
