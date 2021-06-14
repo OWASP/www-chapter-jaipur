@@ -4,10 +4,8 @@ layout: col-sidebar
 title: OWASP Jaipur
 tags: jpr
 level: 0
-
 region: Asia
-
-meetup-group: OWASP-Jaipur
+meetup-group: OWASP-Jaipur-Meetup-Group
 country: India
 postal-code: 302015
 
