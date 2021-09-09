@@ -15,7 +15,7 @@ postal-code: 302015
 <p><b>Welcome to the OWASP Jaipur chapter homepage. We conduct regular meetups to discuss, learn and implement our skills in the field of web & app security. OWASP Jaipur's meetings are FREE & OPEN to everyone who's interested in the information & cyber security domain! </b></p>
 
 ## Become a Speaker<br>
-Would you like to speak on the upcoming OWASP Jaipur Webinar? [Contact Us](mailto:priyadarshan.vijay@owasp.org)
+Would you like to speak on the upcoming OWASP Jaipur Webinar? 
 
 **Email Format :**
 
@@ -48,8 +48,7 @@ To know more about our upcoming events, follow us on our social handles.
 
 ## Supporter Opportunities 
 For more information on how to support the OWASP Jaipur chapter in organising free and open security meets at your company/institution, contact one of our chapter leaders:<br>
-[Prerit Pathak](mailto:prerit.pathak@owasp.org)<br>
-[Priyadarshan Vijay](mailto:priyadarshan.vijay@owasp.org)
+
 
 <h2>Code of Conduct</h2>
 We care deeply about inclusivity and diversity in order to make OWASP Jaipur a convivial and welcoming community for everyone. If you have any feedback or would like to speak t(o us, please contact one of our chapter leaders. Your feedback is of utmost importance to us & is highly appreciated. You can find out more about our policies [here](https://owasp.org/www-policy/).
